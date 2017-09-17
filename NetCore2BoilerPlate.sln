@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore2BoilerPlate", "NetCore2BoilerPlate\NetCore2BoilerPlate.csproj", "{FD855394-F2F3-41AC-B6E7-26AA5456549B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD855394-F2F3-41AC-B6E7-26AA5456549B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD855394-F2F3-41AC-B6E7-26AA5456549B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD855394-F2F3-41AC-B6E7-26AA5456549B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD855394-F2F3-41AC-B6E7-26AA5456549B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

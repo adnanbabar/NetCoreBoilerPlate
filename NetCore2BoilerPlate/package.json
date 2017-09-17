@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "scripts": {
+    "build": "webpack --config webpack.config.js "
+  },
+  "devDependencies": {
+    "webpack": "^3.5.6",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "jquery": "^3.2.1"
+  }
+}
